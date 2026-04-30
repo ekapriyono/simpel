@@ -537,16 +537,16 @@ export default function SimpelSystem() {
           
           <div className="relative z-10 text-center px-6 max-w-5xl">
             <div className="inline-flex items-center gap-2 px-4 py-1 rounded-full border border-white/20 text-xs tracking-[3px] mb-6">
-              PEMERINTAH • DIGITAL • MODERN
+              SIMPEL • DIGITAL • INOVATIF
             </div>
             
             <h1 className="text-7xl md:text-[92px] font-semibold tracking-tighter leading-[0.92] mb-6">
-              PELAYANAN<br />PUBLIK<br />YANG LEBIH<br />MUDAH
+              Sistem Pelayanan Digital<br />Dinas Pendidikan
             </h1>
             
             <p className="max-w-md mx-auto text-xl text-zinc-400 mb-12">
-              Ajukan layanan kependudukan secara digital. 
-              Cepat, transparan, dan tanpa antre.
+              Ajukan layanan secara digital. 
+              <br/>Cepat, transparan, dan tanpa antre.
             </p>
 
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
@@ -579,7 +579,7 @@ export default function SimpelSystem() {
               <div className="text-6xl font-semibold tracking-tighter">Pilih Layanan</div>
             </div>
             <div className="text-right text-sm text-zinc-400 max-w-[240px]">
-              6 layanan kependudukan tersedia. Semua proses dilakukan secara digital.
+              Silahkan ajukan layanan yang Anda butuhkan. Semua proses dilakukan secara digital.
             </div>
           </div>
 
@@ -733,7 +733,7 @@ export default function SimpelSystem() {
             <div className="text-center mb-16">
               <div className="text-xs tracking-[3px] text-purple-400 mb-4">PORTAL TERINTEGRASI</div>
               <div className="text-6xl font-semibold tracking-tighter mb-4">Akses Cepat</div>
-              <p className="text-xl text-zinc-400 max-w-md mx-auto">Hubungkan langsung ke layanan digital pemerintah lainnya</p>
+              <p className="text-xl text-zinc-400 max-w-md mx-auto">Akses cepat Layanan Publik</p>
             </div>
 
             <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
@@ -764,7 +764,7 @@ export default function SimpelSystem() {
                 <span className="font-semibold text-2xl tracking-tighter">SIMPEL</span>
               </div>
               <div className="text-sm text-zinc-400 max-w-xs">
-                Sistem Pelayanan Digital Pemerintah • Next.js 15
+                Sistem Pelayanan Publik Digital <br/>• Dinas Pendidikan Kabupaten Bangkalan •
               </div>
             </div>
 
@@ -782,20 +782,21 @@ export default function SimpelSystem() {
                 <div className="space-y-2 text-zinc-400">
                   <div>Kebijakan Privasi</div>
                   <div>Syarat & Ketentuan</div>
+                  <div>Verified and Secured</div>
                 </div>
               </div>
               <div>
                 <div className="font-medium mb-4 tracking-wider text-xs">KONTAK</div>
                 <div className="space-y-2 text-zinc-400">
-                  <div>help@simpel.go.id</div>
-                  <div>1500-123</div>
+                  <div>disdik.bklkab@gmail.com</div>
+                  <div>Tim IT Sekretariat Disdik</div>
                 </div>
               </div>
             </div>
           </div>
           
           <div className="text-center text-[10px] text-zinc-500 mt-24 tracking-[2px]">
-            © {new Date().getFullYear()} SIMPEL — SIMULASI PROYEK DIGITALISASI PELAYANAN PUBLIK
+            © {new Date().getFullYear()} SIMPEL — SISTEM PELAYANAN PUBLIK DIGITAL
           </div>
         </footer>
       </div>

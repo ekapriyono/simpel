@@ -25,6 +25,7 @@ yarn-error.log*
 # Local env files
 .env*.local
 .env
+credentials.json
 
 # Vercel
 .vercel
@@ -38,3 +39,6 @@ yarn-error.log*
 
 # OS
 Thumbs.db
+
+# Temporary files
+commit kode.txt
